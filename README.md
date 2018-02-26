@@ -1,7 +1,4 @@
-## Welcome to My webpage
-
-
-
+## Dunia Pino del Carpio
 ### About me
 
 I am a biologist, currently working at the AgriBio centre for Agribioscience in Melbourne, Australia. My research goals have been focused mainly on the use of multiple data sources from the OMICs world to understand and use genetic diversity resources. 
@@ -24,7 +21,6 @@ Thesis: Development of a genetic map and measurement of morphological traits of 
 
 
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Publications
