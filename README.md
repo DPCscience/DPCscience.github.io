@@ -11,7 +11,7 @@ I am a biologist, currently working at the AgriBio centre for Agribioscience in 
 
 # Education in a nutshell
 ```
-**1-Doctoral student Plant Breeding and Genetic Resources**
+`sample`**`sample`**`sample`
 Wageningen University
 April 2006 – May 2010
 Thesis: The genetics of the metabolome in *Brassica rapa*.
