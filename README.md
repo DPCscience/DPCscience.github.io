@@ -1,15 +1,12 @@
 ## Welcome to My webpage
 
-You can use the [editor on GitHub](https://github.com/DPCscience/DPCscience.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a biologist, currently working at the AgriBio centre for Agribioscience in Melbourne, Australia. My research goals have been focused mainly on the use of multiple data sources from the OMICs world to understand and use genetic diversity resources. 
 
-```markdown
-Syntax highlighted code block
+```Education in a nutshell
 
 # Header 1
 ## Header 2
