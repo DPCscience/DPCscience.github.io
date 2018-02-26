@@ -37,13 +37,7 @@ Thesis: Development of a genetic map and measurement of morphological traits of 
 
 
 ```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Publications
-
-
-
-
 
 # Publications submitted
 
@@ -54,7 +48,7 @@ Lozano, Dunia Pino Del Carpio, Siraj Ismail Kayondo, Teddy Amuge, Ozimati Alfred
 
 # Publications
 
-**1-Genome-wide association mapping and genomic prediction unravels CBSD resistance in a Manihot esculenta breeding population (2018)
+**1-Genome-wide association mapping and genomic prediction unravels CBSD resistance in a Manihot esculenta breeding population (2018)**
 
 Siraj Ismail Kayondo, Dunia Pino Del Carpio, Roberto Lozano, Alfred Ozimati, Marnin D. Wolfe, Yona Baguma, Vernon Gracen, Offei Samuel, Morag Ferguson, Robert Kawuki, Jean-Luc Jannink. Scientific Reports
 
