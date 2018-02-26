@@ -50,7 +50,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 **Leveraging Transcriptomics Data for Genomic Prediction Models in Cassava (2017)**
 
 Lozano, Dunia Pino Del Carpio, Siraj Ismail Kayondo, Teddy Amuge, Ozimati Alfred Adebo, Morag Ferguson, Jean-Luc Jannink
-[biorxiv link] : (https://www.biorxiv.org/content/early/2017/10/24/208181)
+https://www.biorxiv.org/content/early/2017/10/24/208181/.
 
 # Publications
 
