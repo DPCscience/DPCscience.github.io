@@ -1,7 +1,4 @@
----
-title: My page
-layout: default
----
+
 
 ## Dunia Pino del Carpio
 ### About me
