@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: /_layouts/default.html
 title: My webpage
 include:
       after_body: footer.html
