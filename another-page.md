@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Publications submitted
+# Preprints
 
 **Leveraging Transcriptomics Data for Genomic Prediction Models in Cassava (2017)**
 
