@@ -33,7 +33,7 @@ Thesis: The genetics of the metabolome in *Brassica rapa
 2-Master Student Plant Breeding and Genetic Resources
 Wageningen University
 September 2004 – February 2006
-Thesis: Development of a genetic map and measurement of morphological traits of a *Brassica rapa* Double Haploid population.
+Thesis: Development of a genetic map and measurement of morphological traits of a Brassica rapa Double Haploid population.
 
 
 ```
