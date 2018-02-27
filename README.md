@@ -26,8 +26,7 @@ Research topic: Quantitative dissection of seed yield components through GWAS an
 ```
 # Education in a nutshell
 ```
-2-Doctoral researcher Plant Breeding and Genetic Resources
-
+1-Doctoral researcher Plant Breeding and Genetic Resources
 Wageningen University
 April 2006 – May 2010
 Thesis: The genetics of the metabolome in *Brassica rapa
@@ -36,9 +35,8 @@ Thesis: The genetics of the metabolome in *Brassica rapa
 Wageningen University
 September 2004 – February 2006
 Thesis: Development of a genetic map and measurement of morphological traits of a Brassica rapa Double Haploid population.
-
-
 ```
+
 ### Publications
 
 # Publications submitted
