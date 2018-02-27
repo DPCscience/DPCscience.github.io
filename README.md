@@ -1,10 +1,12 @@
 ## Dunia Pino del Carpio
 
+[Publications](another-page)
+
 ### About me
 
 I am a biologist, currently working at the AgriBio centre for Agribioscience in Melbourne, Australia. My research goals have been focused mainly on the use of multiple data sources from the OMICs world to understand and use genetic diversity resources. 
 
-[Publications](another-page).
+
 
 # Postgraduate research work
 ```
