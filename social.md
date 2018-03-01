@@ -4,6 +4,8 @@ layout: default
 
 **Find me at:**
 
+[Twitter](https://twitter.com/D_science)
+
 [Researchgate](https://www.researchgate.net/profile/Dunia_Del_Carpio)
 
 [Google scholar](https://scholar.google.com/citations?user=bCllZPcAAAAJ&hl=en)
